@@ -6,3 +6,4 @@ Códigos Kotlin
 <li><b>Sorteio (random) de array de String</b> - (24/08/2021)<br>https://github.com/fdananda/kotlin/tree/main/sorteio_string%5B%5D</li>
 <li><b>Componentes de interface sem FindViewById</b> - (25/08/2021)<br>https://github.com/fdananda/kotlin/tree/main/semfindviewbyid</li>
 <li><b>Data Binding</b> - (27/08/2021)<br>https://github.com/fdananda/kotlin-databinding</li>
+<li><b>When</b> - (29/08/2021)<br>https://github.com/fdananda/kotlin/tree/main/when</li>
