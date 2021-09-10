@@ -9,3 +9,4 @@ Códigos Kotlin
 <li><b>When</b> - (29/08/2021)<br>https://github.com/fdananda/kotlin/tree/main/when</li>
 <li><b>Null Safe</b> - (04/09/2021)<br>https://github.com/fdananda/kotlin/tree/main/nullsafe</li>
 <li><b>Toast</b> - (10/09/2021)<br>https://github.com/fdananda/kotlin/tree/main/toast</li>
+<li><b>Navigation Component</b> - (10/09/2021)<br>https://github.com/fdananda/kotlin-navigation_component</li>
