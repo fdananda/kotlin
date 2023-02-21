@@ -11,7 +11,7 @@ Códigos Kotlin
 <li><b>Toast</b> - (10/09/2021)<br>https://github.com/fdananda/kotlin/tree/main/toast</li>
 <li><b>Navigation Component</b> - (10/09/2021)<br>https://github.com/fdananda/kotlin-navigation_component</li>
 <li><b>For in Array</b> - (12/09/2021)<br>https://github.com/fdananda/kotlin/tree/main/for_in_array</li>
-<li><b>aCTIVITY lIFECYCLE</b> - (20/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/lifecycle</li>
+<li><b>Activity Lifecycle</b> - (20/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/lifecycle</li>
 <p><br>
 Links importantes
 <li><b><a href=https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle?hl=pt&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-3-pathway-1%3Fhl%3Dpt%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-activity-lifecycle#4>Mudanças de configuração (girar dispositivo)<a></b> - (16/09/2021)<br></li>
