@@ -14,6 +14,7 @@ Códigos Kotlin
 <li><b>Activity Lifecycle</b> - (20/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/lifecycle</li>
 <li><b>Alert Dialog simples e personalizado</b> - (22/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/alert_dialog</li>
 <li><b>ProgressBar Horizontal e Circular</b> - (22/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/progress_bar</li>
+<li><b>SeekBar</b> - (24/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/seekbar</li>
 <p><br>
 Links importantes
 <li><b><a href=https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle?hl=pt&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-3-pathway-1%3Fhl%3Dpt%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-activity-lifecycle#4>Mudanças de configuração (girar dispositivo)<a></b> - (16/09/2021)<br></li>
