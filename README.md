@@ -17,6 +17,7 @@ Códigos Kotlin
 <li><b>SeekBar</b> - (24/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/seekbar</li>
 <li><b>ListView com evento de clique</b> - (24/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/listview</li>
 <li><b>ListView customizado com evento de clique</b> - (25/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/listview_customizado</li>
+<li><b>CardView</b> - (27/02/2023)<br></li>
 <p><br>
 Links importantes
 <li><b><a href=https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle?hl=pt&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-3-pathway-1%3Fhl%3Dpt%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-activity-lifecycle#4>Mudanças de configuração (girar dispositivo)<a></b> - (16/09/2021)<br></li>
