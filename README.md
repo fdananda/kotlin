@@ -25,6 +25,7 @@ Códigos Kotlin
 <li><b>FloatingActionButton</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/floatingactionbutton</li>
 <li><b>Gradient</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/gradient</li>
 <li><b>Intent para abertura de e-mail, imagens, sites e Google Maps</b> - (02/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/intent</li>
+<li><b>MediaPlayer - Áudio</b> - (02/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/mediaplayer_audio</li>
 
 <p><br>
 Links importantes
