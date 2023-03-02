@@ -23,6 +23,7 @@ Códigos Kotlin
 <li><b>Fragments</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/fragments</li>
 <li><b>SnackBar</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/snackbar</li>
 <li><b>FloatingActionButton</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/floatingactionbutton</li>
+<li><b>Gradient</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/gradient</li>
 
 <p><br>
 Links importantes
