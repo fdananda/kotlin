@@ -21,6 +21,7 @@ Códigos Kotlin
 <li><b>Navegação entre Activities simples, com passagem de dados e com passagem de objetos</b> - (28/02/2023)<br>https://github.com/fdananda/kotlin/tree/main/navegacao_activities</li>
 <li><b>Personalização de cores e remoção de ActionBar</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/personalizacao_cores_noactionbar</li>
 <li><b>Fragments</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/fragments</li>
+<li><b>SnackBar</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/snackbar</li>
 
 <p><br>
 Links importantes
