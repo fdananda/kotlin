@@ -22,6 +22,7 @@ Códigos Kotlin
 <li><b>Personalização de cores e remoção de ActionBar</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/personalizacao_cores_noactionbar</li>
 <li><b>Fragments</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/fragments</li>
 <li><b>SnackBar</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/snackbar</li>
+<li><b>FloatingActionButton</b> - (01/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/floatingactionbutton</li>
 
 <p><br>
 Links importantes
