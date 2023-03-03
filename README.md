@@ -27,6 +27,7 @@ Códigos Kotlin
 <li><b>Intent para abertura de e-mail, imagens, sites e Google Maps</b> - (02/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/intent</li>
 <li><b>MediaPlayer - Áudio</b> - (02/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/mediaplayer_audio</li>
 <li><b>VideoView e Rating Bar</b> - (02/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/videoview_ratingbar</li>
+<li><b>CRUD - SharedPreferences</b> - (03/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/crud_sharedpreferences</li>
 
 <p><br>
 Links importantes
