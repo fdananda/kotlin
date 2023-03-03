@@ -4,13 +4,8 @@ import java.io.Serializable
 
 class Objeto(private var atributoObjetoTexto: String, private var atributoObjetoNumero: Int) : Serializable{
 
-    private var atributoObjetoTexto2: String? = null
-    private var atributoObjetoNumero2 = 0
-
-    fun Objeto(atributoObjetoTexto: String, atributoObjetoNumero: Int) {
-        this.atributoObjetoTexto2 = atributoObjetoTexto
-        this.atributoObjetoNumero2 = atributoObjetoNumero
-    }
+    private var atributoObjetoTexto2: String? = atributoObjetoTexto
+    private var atributoObjetoNumero2 = atributoObjetoNumero
 
     fun getAtributoObjetoTexto(): String {
         return atributoObjetoTexto
