@@ -51,7 +51,7 @@
             android:layout_margin="5dp"
             android:ems="10"
             android:hint="Digite um número"
-            android:inputType="textPersonName" />
+            android:inputType="number" />
 
         <Button
             android:id="@+id/buttonPassagemDados"
@@ -92,7 +92,7 @@
             android:layout_margin="5dp"
             android:ems="10"
             android:hint="Digite um número"
-            android:inputType="textPersonName" />
+            android:inputType="number" />
 
         <Button
             android:id="@+id/buttonPassagemObjeto"
