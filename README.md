@@ -33,6 +33,7 @@ Códigos Kotlin
 <li><b>CRUD - SQLite com DAO</b> - (05/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/crud_sqllite_dao</li>
 <li><b>Menu</b> - (05/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/menu</li>
 <li><b>EditText Customizados</b> - (06/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/edittext_customizados</li>
+<li><b>Tema Customizado</b> - (07/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/tema_customizado</li>
 
 <p><br>
 Links importantes
