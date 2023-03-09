@@ -36,6 +36,7 @@ Códigos Kotlin
 <li><b>Tema Customizado</b> - (07/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/tema_customizado</li>
 <li><b>Data Atual</b> - (08/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/data_atual</li>
 <li><b>Decimal Format</b> - (08/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/decimal_format</li>
+<li><b>MVVM com Fragment</b> - (09/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/mvvm_com_fragment</li>
 
 <p><br>
 Links importantes
