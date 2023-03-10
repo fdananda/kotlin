@@ -43,6 +43,7 @@ Códigos Kotlin
 <li><b>Request HTTP</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/request_http</li>
 <li><b>MVVM - Substituição de TextView com clique de botão</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/mvvm_substituicao_textview</li>
 <li><b>Shape Rectangle</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/shape</li>
+<li><b>EditText Arredondado</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/edittext_arredondado</li>
 
 <p><br>
 Links importantes
