@@ -40,6 +40,7 @@ Códigos Kotlin
 <li><b>MVVM com Activity</b> - (09/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/mvvm_com_activity</li>
 <li><b>Threads</b> - (09/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/threads</li>
 <li><b>AsyncTask</b> - (09/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/asynctask</li>
+<li><b>Request HTTP</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/request_http</li>
 
 <p><br>
 Links importantes
