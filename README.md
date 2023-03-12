@@ -45,6 +45,7 @@ Códigos Kotlin
 <li><b>Shape Rectangle</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/shape</li>
 <li><b>EditText Arredondado</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/edittext_arredondado</li>
 <li><b>TextWatcher (controle de texto no EditText)</b> - (10/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/textwatcher</li>
+<li><b>InputMethodManager (controle do teclado)</b> - (11/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/inputmethodmanager</li>
 
 <p><br>
 Links importantes
