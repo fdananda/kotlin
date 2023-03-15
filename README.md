@@ -49,6 +49,7 @@ Códigos Kotlin
 <li><b>String (split)</b> - (12/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/string</li>
 <li><b>Radio Button (com  MVVM)</b> - (13/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/mvvm_radiobutton</li>
 <li><b>onActivityResult</b> - (14/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/onactivityresult</li>
+<li><b>CardView cardCornerRadius (imagem arredondada)</b> - (15/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/cardview_cardcornerradius</li>
 
 <p><br>
 Links importantes
