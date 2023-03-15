@@ -48,6 +48,7 @@ Códigos Kotlin
 <li><b>InputMethodManager (controle do teclado)</b> - (11/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/inputmethodmanager</li>
 <li><b>String (split)</b> - (12/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/string</li>
 <li><b>Radio Button (com  MVVM)</b> - (13/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/mvvm_radiobutton</li>
+<li><b>onActivityResult</b> - (14/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/onactivityresult</li>
 
 <p><br>
 Links importantes
