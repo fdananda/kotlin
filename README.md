@@ -55,6 +55,7 @@ Códigos Kotlin
 <li><b>Dark Theme </b> - (16/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/dark_theme</li>
 <li><b>Progress Dialog </b> - (17/03/2023) deprecated e substituído pelo progressBar<br>https://github.com/fdananda/kotlin/tree/main/progress_dialog</li>
 <li><b>Navegação entre activities 2 </b> - (18/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/navegacao_activities2</li>
+<li><b>Tabbed Activity </b> - (21/03/2023)<br>https://github.com/fdananda/kotlin/tree/main/tabbedactivity</li>
 
 <p><br>
 Links importantes
